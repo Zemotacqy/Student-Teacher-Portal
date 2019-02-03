@@ -1,3 +1,4 @@
+#This Project is Built Purely on Java (GUI support using Swing Package) and used local mysql database.
 To run this project make sure:
 1. Java is installed.
 2. A mysql server is up and running.
