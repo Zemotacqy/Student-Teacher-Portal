@@ -19,3 +19,5 @@ And run the command - javac *.java
 (This will create .class files of all the java files in connection folder)
 Now go and run in same cmd : java Login_page
 **Use username:admin and password: admin**
+
+![small Preview](https://github.com/Zemotacqy/Student-Teacher-Portal/blob/master/Preview.JPG)
