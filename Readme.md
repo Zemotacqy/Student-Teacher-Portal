@@ -1,11 +1,11 @@
-#This Project is Built Purely on Java (GUI support using Swing Package) and used local mysql database.
+**This Project is Built Purely on Java (GUI support using Swing Package) and used local mysql database.**
 To run this project make sure:
 1. Java is installed.
 2. A mysql server is up and running.
 
 First go and run the client side of mysql database.
 Make a new user "zemotacqy" with password "Zemotacqy" and grant this user all permissions.
-Refer here: https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
+Refer here: [Setup Mysql Locally](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
 Run the following commands in succession:
 
 create database login;
